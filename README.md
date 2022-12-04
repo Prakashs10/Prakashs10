@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakashs10
 - 👀 I’m interested in create new ideas
-- 🌱 I’m currently learning build websites
+- 🌱 I’m currently learning build apps use dot net technology and websites
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me 622518214038@sctbiotech.com
 
